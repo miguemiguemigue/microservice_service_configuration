@@ -1,1 +1,1 @@
-# Microservice Prjoject Service Configuration
+# Microservice Project Service Configuration
